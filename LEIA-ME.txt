@@ -1,0 +1,17 @@
+APP COACHING GESTÃO NO GENBA – versão instalável (PWA) – Rev. 04
+
+Link: https://kafkia.github.io/app-coaching/
+
+Fóruns e líderes (Asakai está acima dos Pontos de Encontro):
+- Asakai (Nível 2): Cristiano Rosa
+- PE Montagem (Nível 1): Edson da Silva
+- PE Usinagem (Nível 1): Ericson Ramos
+- PE Logística (Nível 1): Alexandre Rubim
+
+Instalar: Android (Chrome) menu > "Instalar app"; iPhone (Safari) Compartilhar > "Adicionar à Tela de Início"; notebook (Chrome/Edge) ícone de instalar na barra de endereço.
+Sem PIN e sem login. Base online única (Supabase, mesmo projeto do 5S): todos que abrem o link veem e registram os mesmos dados. Sem internet, o app guarda no aparelho e envia depois.
+
+BASE ONLINE (uma vez só): Supabase > SQL Editor > cole o arquivo supabase_coaching.sql > Run.
+ATENÇÃO: o acesso é livre; quem tiver o link vê e altera os dados.
+Exportar: botões Excel e PDF em todas as abas. Dados antigos de um aparelho: Equipe > "Enviar para a base online" ou Importar base (Excel).
+Guarde as planilhas exportadas em OneDrive > Aretia > 02 - Coaching Estruturado > Dados (não suba dados no GitHub).
